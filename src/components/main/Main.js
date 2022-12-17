@@ -93,6 +93,20 @@ const projects = [
     type: "js",
     id: 12,
   },
+  {
+    name: "Crwn Clothing",
+    image: "../../assets/images/img-13.jpg",
+    url: "https://lukas-crwn-clothing.netlify.app/",
+    type: "react",
+    id: 13,
+  },
+  {
+    name: "Video Player",
+    image: "../../assets/images/img-14.jpg",
+    url: "https://lukas-video-player.netlify.app/",
+    type: "js",
+    id: 14,
+  },
 ];
 
 const Main = () => {
