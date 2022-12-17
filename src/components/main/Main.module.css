@@ -1,0 +1,26 @@
+.main {
+  background-color: #f8f9fa;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.section {
+  margin-top: 8rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 12.8rem;
+  margin-bottom: 12.8rem;
+}
+
+@media (max-width: 1500px) {
+  .section {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 900px) {
+  .section {
+    grid-template-columns: 1fr;
+  }
+}
