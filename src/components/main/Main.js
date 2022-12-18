@@ -107,6 +107,13 @@ const projects = [
     type: "js",
     id: 14,
   },
+  {
+    name: "Form Validation",
+    image: "../../assets/images/img-15.jpg",
+    url: "https://lukas-form-validation.netlify.app/",
+    type: "js",
+    id: 15,
+  },
 ];
 
 const Main = () => {
