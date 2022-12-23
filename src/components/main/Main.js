@@ -114,6 +114,13 @@ const projects = [
     type: "js",
     id: 15,
   },
+  {
+    name: "Spock Rock Game",
+    image: "../../assets/images/img-16.jpg",
+    url: "https://lukas-spock-rock-game.netlify.app/",
+    type: "js",
+    id: 16,
+  },
 ];
 
 const Main = () => {
