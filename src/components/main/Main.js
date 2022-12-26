@@ -121,6 +121,13 @@ const projects = [
     type: "js",
     id: 16,
   },
+  {
+    name: "NASA API Pictures",
+    image: "../../assets/images/img-17.jpg",
+    url: "https://lukas-nasa-api-pictures.netlify.app/",
+    type: "js",
+    id: 17,
+  },
 ];
 
 const Main = () => {
