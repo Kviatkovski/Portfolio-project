@@ -128,6 +128,13 @@ const projects = [
     type: "js",
     id: 17,
   },
+  {
+    name: "Math Sprint Game",
+    image: "../../assets/images/img-18.jpg",
+    url: "https://lukas-math-sprint-game.netlify.app/",
+    type: "js",
+    id: 18,
+  },
 ];
 
 const Main = () => {
