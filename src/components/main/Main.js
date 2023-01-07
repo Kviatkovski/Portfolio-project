@@ -130,10 +130,17 @@ const projects = [
   },
   {
     name: "Math Sprint Game",
+    image: "../../assets/images/img-19.jpg",
+    url: "https://lukas-drag-and-drop.netlify.app/",
+    type: "js",
+    id: 18,
+  },
+  {
+    name: "Drag And Drop",
     image: "../../assets/images/img-18.jpg",
     url: "https://lukas-math-sprint-game.netlify.app/",
     type: "js",
-    id: 18,
+    id: 19,
   },
 ];
 
