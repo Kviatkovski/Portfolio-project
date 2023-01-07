@@ -142,6 +142,13 @@ const projects = [
     type: "js",
     id: 19,
   },
+  {
+    name: "Calculator",
+    image: "../../assets/images/img-20.jpg",
+    url: "https://lukas-calculator.netlify.app/",
+    type: "js",
+    id: 20,
+  },
 ];
 
 const Main = () => {
