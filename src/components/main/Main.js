@@ -156,6 +156,13 @@ const projects = [
     type: "js",
     id: 21,
   },
+  {
+    name: "Paint Clone",
+    image: "../../assets/images/img-22.jpg",
+    url: "https://lukas-paint-clone.netlify.app/",
+    type: "js",
+    id: 22,
+  },
 ];
 
 const Main = () => {
