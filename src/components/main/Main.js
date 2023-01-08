@@ -163,6 +163,13 @@ const projects = [
     type: "js",
     id: 22,
   },
+  {
+    name: "Pong",
+    image: "../../assets/images/img-23.jpg",
+    url: "https://lukas-pong.netlify.app/",
+    type: "js",
+    id: 23,
+  },
 ];
 
 const Main = () => {
