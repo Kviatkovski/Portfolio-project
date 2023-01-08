@@ -149,6 +149,13 @@ const projects = [
     type: "js",
     id: 20,
   },
+  {
+    name: "Splash page",
+    image: "../../assets/images/img-21.jpg",
+    url: "https://lukas-splash-page.netlify.app/",
+    type: "js",
+    id: 21,
+  },
 ];
 
 const Main = () => {
