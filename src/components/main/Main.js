@@ -170,6 +170,13 @@ const projects = [
     type: "js",
     id: 23,
   },
+  {
+    name: "Todo App",
+    image: "../../assets/images/img-24.jpg",
+    url: "https://lukas-todo-app.netlify.app/",
+    type: "react",
+    id: 24,
+  },
 ];
 
 const Main = () => {
