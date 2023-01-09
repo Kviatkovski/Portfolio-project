@@ -9,7 +9,11 @@ const Contact = () => {
   return (
     <footer className={styles.footer}>
       <div>
-        <p className={styles.p}>Tel: 599-400-471</p>
+        <p className={styles.p}>
+          <a className={styles.tel} href="tel:+995599400471">
+            Tel: 599-400-471
+          </a>
+        </p>
         <p className={styles.p}>Mail: kviatkovsky21@gmail.com</p>
       </div>
       <ul className={styles.ul}>

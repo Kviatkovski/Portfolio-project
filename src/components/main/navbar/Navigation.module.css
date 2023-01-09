@@ -53,6 +53,7 @@
 
 @media (max-width: 600px) {
   .nav {
+    min-height: 19.4rem;
     width: 12.8rem;
   }
 
