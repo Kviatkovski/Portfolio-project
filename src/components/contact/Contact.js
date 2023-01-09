@@ -19,6 +19,8 @@ const Contact = () => {
       <ul className={styles.ul}>
         <li className={styles.li}>
           <a
+            target="_blank"
+            rel="noreferrer noopener"
             className={styles.a}
             href="https://www.facebook.com/kviat.kovsky.9"
           >
@@ -27,6 +29,8 @@ const Contact = () => {
         </li>
         <li className={styles.li}>
           <a
+            target="_blank"
+            rel="noreferrer noopener"
             className={styles.a}
             href="https://www.instagram.com/luka.kviatkovski/?next=%2F"
           >
@@ -35,6 +39,8 @@ const Contact = () => {
         </li>
         <li className={styles.li}>
           <a
+            target="_blank"
+            rel="noreferrer noopener"
             className={styles.a}
             href="https://www.linkedin.com/in/luka-kviatkovski-64b037242/"
           >
@@ -43,6 +49,8 @@ const Contact = () => {
         </li>
         <li className={styles.li}>
           <a
+            target="_blank"
+            rel="noreferrer noopener"
             className={styles.a}
             href="https://github.com/CatUnderNewTent?tab=repositories"
           >
