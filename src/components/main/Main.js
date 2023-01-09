@@ -177,6 +177,13 @@ const projects = [
     type: "react",
     id: 24,
   },
+  {
+    name: "Currency Converter App",
+    image: "../../assets/images/img-25.jpg",
+    url: "https://lukas-currency-converter.netlify.app/",
+    type: "react",
+    id: 25,
+  },
 ];
 
 const Main = () => {
