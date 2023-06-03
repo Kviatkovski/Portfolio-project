@@ -52,7 +52,7 @@ const Contact = () => {
             target="_blank"
             rel="noreferrer noopener"
             className={styles.a}
-            href="https://github.com/CatUnderNewTent?tab=repositories"
+            href="https://github.com/Kviatkovski"
           >
             <img src={logo4} alt="github logo" />
           </a>
